@@ -1,2 +1,1 @@
-API_KEY=string
-TEST=string
+GOOGLE_CLIENT_ID=string
